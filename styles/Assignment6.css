@@ -1,0 +1,9 @@
+.redtext {font-‐‐style: italic; color: red; }
+
+section.section1 {display: none; max-width: 600px; overflow: scroll; position: relative;}
+
+section.section2 {display: none; max-width: 600px; overflow:scroll; top: 120px;}
+
+section.section3 {display: none; max-width: 600px; overflow: scroll; top: 120px;}
+
+h2{font-family: sans-serif;}
